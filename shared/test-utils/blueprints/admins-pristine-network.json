@@ -1,0 +1,11 @@
+[{
+  "integrationName": "PMT",
+  "name": "Jumbo Nanne van der Schaaf",
+  "externalId": "https://jumboschaaf_store.personeelstool.nl",
+  "admins": []
+}, {
+  "integrationName": "PMT",
+  "name": "Jumbo van Bergen",
+  "externalId": "https://jumbobergen_store.personeelstool.nl",
+  "admins": []
+}]
